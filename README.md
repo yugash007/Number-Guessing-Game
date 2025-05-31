@@ -45,6 +45,7 @@ The **Number Guessing Game** is a **Java-based console application** that challe
 ```bash
 javac NumberGuessingGame.java
 java NumberGuessingGame
+'
 
 ## 🕹️ Game Controls
 - 🔢 Enter numbers between 1–100 to make a guess
