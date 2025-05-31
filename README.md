@@ -35,18 +35,6 @@ The **Number Guessing Game** is a **Java-based console application** that challe
 - 🥇 **Maximum possible score per round**: **100 points**
 - ✅ Score is only awarded for **successful guesses**
 
-## 📦 Requirements
-
-- ☕ **Java Runtime Environment (JRE)**
-- 💻 **Java Development Kit (JDK)** for compilation
-
-## ⚙️ How to Run
-
-```bash
-javac NumberGuessingGame.java
-java NumberGuessingGame
-'
-
 ## 🕹️ Game Controls
 - 🔢 Enter numbers between 1–100 to make a guess
 - 🔁 Type 'yes' to play another round
@@ -57,6 +45,17 @@ java NumberGuessingGame
 - 🏅 High score tracking
 - 🎛️ Custom range selection
 - ⏱️ Time-based challenges
+
+## 📦 Requirements
+
+- ☕ **Java Runtime Environment (JRE)**
+- 💻 **Java Development Kit (JDK)** for compilation
+
+## ⚙️ How to Run
+
+```bash
+javac NumberGuessingGame.java
+java NumberGuessingGame
 
 
 
